@@ -14,6 +14,9 @@ Admin=76561199160132781:Whitelist // Gort
 //Community Members
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
 Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
+Admin=76561198005886399:Whitelist // [CQMND] Bixby
+Admin=76561198005150441:Whitelist // [CQMND] Skrillar
+Admin=76561198847978628:Whitelist // [CQMND] Echo 
 Admin=76561199237416124:Whitelist // LiQ xplay0321
 Admin=76561199015283632:Whitelist // (DS) Maddox
 Admin=76561198128712453:Whitelist // (DS) Capybara
@@ -22,10 +25,9 @@ Admin=76561198449230715:Whitelist // S0 CustardPie
 Admin=76561199135304651:Whitelist // S0 _eeby_deeby
 Admin=76561198390519557:Whitelist // S0 Lawless
 Admin=76561198311458002:Whitelist // S0 Specialist Buck
-
+Admin=76561198044214318:Whitelist // STG | SgtBillyCakes 
 
 //Blueberries
-
 Admin=76561199027754855:Whitelist // spiffy
 
 
