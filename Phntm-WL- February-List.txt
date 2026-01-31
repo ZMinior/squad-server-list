@@ -1,0 +1,23 @@
+Group=Whitelist:reserve
+
+//February Temporary Whitelist
+
+//Phantom Members
+Admin=76561198189866947:Whitelist // Waters
+Admin=76561199106941363:Whitelist // Reagan
+
+//Community Members
+Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
+Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
+Admin=76561198311458002:Whitelist // [10RR] Specialist Buck
+Admin=76561199237416124:Whitelist // LiQ xplay0321
+Admin=76561199015283632:Whitelist // (DS)Maddox
+Admin=76561198300433313:Whitelist // S0 FidelCastration
+Admin=76561198449230715:Whitelist // S0 CustardPie
+Admin=76561199135304651:Whitelist // S0 _eeby_deeby
+
+//Blueberries
+
+Admin=76561199027754855:Whitelist // spiffy
+
+
