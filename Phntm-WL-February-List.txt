@@ -12,7 +12,6 @@ Admin=76561199096830305:Whitelist // Maverick
 //Community Members
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
 Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
-Admin=76561198311458002:Whitelist // [10RR] Specialist Buck
 Admin=76561199237416124:Whitelist // LiQ xplay0321
 Admin=76561199015283632:Whitelist // (DS) Maddox
 Admin=76561198128712453:Whitelist // (DS) Capybara
@@ -20,6 +19,7 @@ Admin=76561198300433313:Whitelist // S0 FidelCastration
 Admin=76561198449230715:Whitelist // S0 CustardPie
 Admin=76561199135304651:Whitelist // S0 _eeby_deeby
 Admin=76561198390519557:Whitelist // S0 Lawless
+Admin=76561198311458002:Whitelist // S0 Specialist Buck
 
 
 //Blueberries
