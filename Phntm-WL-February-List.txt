@@ -9,6 +9,8 @@ Admin=76561198122427311:Whitelist // Khodorkovsky
 Admin=76561198407806476:Whitelist // Blah
 Admin=76561198203872867:Whitelist // Anarchos
 Admin=76561199096830305:Whitelist // Maverick
+Admin=76561199160132781:Whitelist // Gort
+
 //Community Members
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
 Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
