@@ -19,10 +19,11 @@ Admin=76561198128712453:Whitelist // (DS) Capybara
 Admin=76561198300433313:Whitelist // S0 FidelCastration
 Admin=76561198449230715:Whitelist // S0 CustardPie
 Admin=76561199135304651:Whitelist // S0 _eeby_deeby
+Admin=76561198390519557:Whitelist // S0 Lawless
 
 
 //Blueberries
 
 Admin=76561199027754855:Whitelist // spiffy
-Admin=76561198390519557:Whitelist // Lawless
+
 
