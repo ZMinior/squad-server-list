@@ -5,6 +5,9 @@ Group=Whitelist:reserve
 //Phantom Members
 Admin=76561198189866947:Whitelist // Waters
 Admin=76561199106941363:Whitelist // Reagan
+Admin=76561198122427311:Whitelist // Khodorkovsky
+Admin=76561198407806476:Whitelist // Blah
+Admin=76561198203872867:Whitelist // Anarchos
 
 //Community Members
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
@@ -19,5 +22,5 @@ Admin=76561199135304651:Whitelist // S0 _eeby_deeby
 //Blueberries
 
 Admin=76561199027754855:Whitelist // spiffy
-
+Admin=76561198128712453:Whitelist // Capybara
 
