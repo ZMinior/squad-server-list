@@ -29,5 +29,6 @@ Admin=76561198044214318:Whitelist // STG | SgtBillyCakes
 
 //Blueberries
 Admin=76561199027754855:Whitelist // spiffy
+Admin=76561199099226521:Whitelist // Lord_Cheek_Clapper
 
 
