@@ -13,6 +13,7 @@ Admin=76561199160132781:Whitelist // Gort
 Admin=76561199557399249:Whitelist // Devildog3769
 
 //Community Members
+Admin=76561198802819376:Whitelist // [DMH] biney
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
 Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
 Admin=76561198005886399:Whitelist // [CQMND] Bixby
@@ -27,6 +28,16 @@ Admin=76561199135304651:Whitelist // S0 _eeby_deeby
 Admin=76561198390519557:Whitelist // S0 Lawless
 Admin=76561198311458002:Whitelist // S0 Specialist Buck
 Admin=76561198044214318:Whitelist // STG | SgtBillyCakes 
+Admin=76561198863849960:Whitelist // STG | alex
+Admin=76561199054330846:Whitelist // STG | ALPHA
+Admin=76561198097813862:Whitelist // STG | Angry_Reaper
+Admin=76561198168965657:Whitelist // STG | Big_Iron
+Admin=76561198144618598:Whitelist // STG | Cpt.DuckWorth
+Admin=76561198042402948:Whitelist // STG | Commandre
+Admin=76561198254172492:Whitelist // STG | Lanfex
+Admin=76561198229910936:Whitelist // STG | Metro
+Admin=76561198244716966:Whitelist // STG | Schuter
+Admin=76561198013844755:Whitelist // STG | SnippleRifsky
 
 //Blueberries
 Admin=76561199027754855:Whitelist // spiffy
