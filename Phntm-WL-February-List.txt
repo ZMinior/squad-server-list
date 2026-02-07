@@ -38,6 +38,7 @@ Admin=76561198254172492:Whitelist // STG | Lanfex
 Admin=76561198229910936:Whitelist // STG | Metro
 Admin=76561198244716966:Whitelist // STG | Schuter
 Admin=76561198013844755:Whitelist // STG | SnippleRifsky
+Admin=76561198045547137:Whitelist // [5MRB] Crazle
 
 //Blueberries
 Admin=76561199027754855:Whitelist // spiffy
