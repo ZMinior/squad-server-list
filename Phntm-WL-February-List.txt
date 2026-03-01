@@ -24,6 +24,7 @@ Admin=76561198005150441:Whitelist // [CQMND] Skrillar
 Admin=76561198847978628:Whitelist // [CQMND] Echo 
 Admin=76561198274000543:Whitelist // [CQMND] 7051Marine 
 Admin=76561199237416124:Whitelist // LiQ xplay0321
+Admin=76561197971661578:Whitelist // LiQ bogerman1
 Admin=76561199015283632:Whitelist // (DS) Maddox
 Admin=76561198128712453:Whitelist // (DS) Capybara
 Admin=76561198300433313:Whitelist // S0 FidelCastration
@@ -44,6 +45,7 @@ Admin=76561198244716966:Whitelist // STG | Schuter
 Admin=76561198013844755:Whitelist // STG | SnippleRifsky
 Admin=76561198045547137:Whitelist // [5MRB] Crazle
 Admin=76561198132825567:Whitelist // [5MRB] Capt.Sisson.J
+Admin=76561198015083649:Whitelist // JSOC Blueballs
 
 //Blueberries
 Admin=76561199027754855:Whitelist // spiffy
