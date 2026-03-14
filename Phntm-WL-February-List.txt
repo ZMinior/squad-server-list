@@ -51,6 +51,8 @@ Admin=76561198015083649:Whitelist // JSOC Blueballs
 //Blueberries
 Admin=76561199027754855:Whitelist // spiffy
 Admin=76561199099226521:Whitelist // Lord_Cheek_Clapper
-Admin=76561197973022150:Whitelist // WyldMan 
+Admin=76561197973022150:Whitelist // WyldMan
+Admin=76561199410208387:Whitelist // SadSaltySnake 
+
 
 
