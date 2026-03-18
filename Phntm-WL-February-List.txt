@@ -53,6 +53,7 @@ Admin=76561199027754855:Whitelist // spiffy
 Admin=76561199099226521:Whitelist // Lord_Cheek_Clapper
 Admin=76561197973022150:Whitelist // WyldMan
 Admin=76561199410208387:Whitelist // SadSaltySnake 
+Admin=76561198157532625:Whitelist // How you doin
 
 
 
