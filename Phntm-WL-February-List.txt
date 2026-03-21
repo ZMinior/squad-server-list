@@ -18,7 +18,8 @@ Admin=76561198045106709:Whitelist // Me
 Admin=76561198968982430:Whitelist // Saddys
 
 //Community Members
-Admin=76561198802819376:Whitelist // [DMH] biney
+Admin=76561198035244201:Whitelist // [DMH] biney
+Admin=76561198802819376:Whitelist // [DMH] ArbitraryMonk
 Admin=76561198333246681:Whitelist // [CQMND] SLEDGEHAMMER
 Admin=76561198086590701:Whitelist // [CQMND] GeneralTimJim
 Admin=76561198005886399:Whitelist // [CQMND] Bixby
