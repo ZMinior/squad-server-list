@@ -16,6 +16,7 @@ Admin=76561199105621990:Whitelist // Krabberz
 Admin=76561199026440406:Whitelist // Underatedpleb
 Admin=76561198045106709:Whitelist // Me
 Admin=76561198968982430:Whitelist // Saddys
+Admin=76561198202196192:Whitelist // Impulse
 
 //Community Members
 Admin=76561198035244201:Whitelist // [DMH] biney
